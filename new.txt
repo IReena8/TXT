@@ -1,5 +1,4 @@
 Yaryza Iryna Volodymyrivna
-[AFull name: Yaryza Iryna Volodymyrivna
 Age: 43
-number of pets[D[D[D[D[D[D[D[D[D[D[D[D[N[C[C[C[C[C[C[C[C[C[C[C[C[C: 0
-future desired salary[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[F[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C: 500€
+Number of pets: 0
+Future desired salary: 500€
